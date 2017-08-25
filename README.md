@@ -31,7 +31,7 @@ Instalação
 
 ## Instalação
 Baixe o [Composer](https://getcomposer.org/)
-
+TESTE
 
 Baixe o esqueleto do projeto
 ```
